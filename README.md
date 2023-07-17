@@ -37,7 +37,7 @@ A simple digital clock application built using Tkinter library in Python.
 
 2. The clock will appear in a resizable window.
 
- ![output](./Screenshot(20).png)
+ ![output](./Screenshot%20(20).png)
 
 
 
